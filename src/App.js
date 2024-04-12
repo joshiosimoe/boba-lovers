@@ -20,7 +20,7 @@ function App() {
       </header>
       <div>
         <p>
-          HELLO WORLD!
+          WE LOVE BOBA!
         </p>
       </div>
     </div>
